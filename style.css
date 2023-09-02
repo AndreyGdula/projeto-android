@@ -151,7 +151,7 @@ footer {
 footer > p {
     margin: 0;
 }
-a#cev {
+.cev {
     text-decoration: none;
     color: white;
 }
